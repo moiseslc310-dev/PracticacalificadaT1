@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPN\\upn-fundamentos\\ExamenT1\\ExamenT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D071F9-7995-4021-A7AB-2CC1191BBF61}|ExamenT1\\ExamenT1.csproj|d:\\upn\\upn-fundamentos\\exament1\\exament1\\exament1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D071F9-7995-4021-A7AB-2CC1191BBF61}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPN\\upn-fundamentos\\ExamenT1\\ExamenT1\\ExamenT1\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenT1\\Program.cs",
+              "ToolTip": "D:\\UPN\\upn-fundamentos\\ExamenT1\\ExamenT1\\ExamenT1\\Program.cs",
+              "RelativeToolTip": "ExamenT1\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:08:59.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

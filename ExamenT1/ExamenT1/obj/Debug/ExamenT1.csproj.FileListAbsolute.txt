@@ -1,0 +1,7 @@
+D:\UPN\upn-fundamentos\ExamenT1\ExamenT1\ExamenT1\bin\Debug\ExamenT1.exe.config
+D:\UPN\upn-fundamentos\ExamenT1\ExamenT1\ExamenT1\bin\Debug\ExamenT1.exe
+D:\UPN\upn-fundamentos\ExamenT1\ExamenT1\ExamenT1\bin\Debug\ExamenT1.pdb
+D:\UPN\upn-fundamentos\ExamenT1\ExamenT1\ExamenT1\obj\Debug\ExamenT1.csproj.AssemblyReference.cache
+D:\UPN\upn-fundamentos\ExamenT1\ExamenT1\ExamenT1\obj\Debug\ExamenT1.csproj.CoreCompileInputs.cache
+D:\UPN\upn-fundamentos\ExamenT1\ExamenT1\ExamenT1\obj\Debug\ExamenT1.exe
+D:\UPN\upn-fundamentos\ExamenT1\ExamenT1\ExamenT1\obj\Debug\ExamenT1.pdb
